@@ -1,0 +1,2 @@
+I can't compare GIT with other systems of version control because I didn't use any system before GIT.
+But so far I see the only one advantage:  The possibility to download project files  on another computer and upload the changed files into server.
